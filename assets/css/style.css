@@ -123,7 +123,7 @@ section {
 
 /* Hero Styles End */
 
-/* Step Section */
+/* What We Do */
 
 .intro {
     text-align: center;
@@ -146,3 +146,18 @@ section {
     font-size: 20px;
     margin: 0 auto;
 }
+
+/* Step Section */
+
+.steps {
+    text-align: center;
+    background-color: #fce138;
+}
+
+.steps h2 {
+    font-size: 55px;
+    color: #024e76;
+    margin-bottom: 35px;
+    padding: 0 100ox 20px 100px;
+    border-bottom: 3px solid #39a6b2;
+} 
